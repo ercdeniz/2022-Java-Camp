@@ -13,7 +13,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week2/1)methods" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -44,10 +45,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1663503439039">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1663854220148">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1663503439039" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1663854220148" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1663503638687">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -64,5 +65,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1663503638687" />
+    <state x="65" y="0" key="new project wizard" timestamp="1663853997988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1663853997988" />
   </component>
 </project>
